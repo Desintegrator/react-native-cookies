@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f0a43528b9993d24d29264684a1e56a/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f0a43528b9993d24d29264684a1e56a/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

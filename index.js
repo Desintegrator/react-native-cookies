@@ -8,7 +8,7 @@ let CookieManager;
 
 if (Platform.OS === 'ios') {
     invariant(RNCookieManagerIOS,
-        'react-native-cookies: Add RNCookieManagerIOS.h and RNCookieManagerIOS.m to your Xcode project');
+        'react-native-cookies: Add RNCookieMangerIOS.h and RNCookieManagerIOS.m to your Xcode project');
     CookieManager = RNCookieManagerIOS;
 } else if (Platform.OS === 'android') {
     invariant(RNCookieManagerAndroid,
@@ -19,18 +19,16 @@ if (Platform.OS === 'ios') {
 }
 
 const functions = [
+    'set',
     'setFromResponse',
     'getFromResponse',
+    'get',
+    'getAll',
+    'clearAll',
     'clearByName'
 ];
 
-module.exports = {
-  getAll: (useWebKit = false) => CookieManager.getAll(useWebKit),
-  clearAll: (useWebKit = false) => CookieManager.clearAll(useWebKit),
-  get: (url, useWebKit = false) => CookieManager.get(url, useWebKit),
-  set: (cookie, useWebKit = false) => CookieManager.set(cookie, useWebKit),
-};
-
+module.exports = {}
 for (var i = 0; i < functions.length; i++) {
     module.exports[functions[i]] = CookieManager[functions[i]];
 }

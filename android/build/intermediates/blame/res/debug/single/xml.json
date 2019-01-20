@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/MacSSD/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Volumes/MacSSD/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.0/res/xml/preferences.xml"
+    }
+]

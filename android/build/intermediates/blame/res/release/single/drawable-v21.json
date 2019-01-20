@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f0a43528b9993d24d29264684a1e56a/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fce6e764a6635022c99b9dcec667638e/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f0a43528b9993d24d29264684a1e56a/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/algeran/Documents/Projects/MustarReact/node_modules/react-native-cookies/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/algeran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6f0a43528b9993d24d29264684a1e56a/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
